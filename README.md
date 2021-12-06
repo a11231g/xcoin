@@ -24,3 +24,5 @@ Show an error message when the desired exchange amount exceeds the current balan
 ```
 
 ### demo
+
+https://github.com/a11231g/xcoin/blob/master/demo/xcoins.mp4
